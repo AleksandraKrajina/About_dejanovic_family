@@ -1,0 +1,130 @@
+{
+  "brand": {
+    "label": "Država",
+    "name": "Dragaš Dejanović"
+  },
+  "navLinks": ["Početna", "Porodica", "FAQ", "Istorija", "Wiki", "Zajednica"],
+  "hero": {
+    "sectionTitle": "01 // Porodica Dejanović / Dragaš",
+    "paragraph1": "Porodica Dejanović, poznata i kao Dragaš, bila je jedna od najznačajnijih velikaških loza kasnosrednjovekovne Srbije. Njeni članovi su upravljali širokim teritorijama između današnje Srbije, Severne Makedonije i Bugarske u vreme kada je srpska despotovina gubila svoju nezavisnost pod pritiskom Osmanskog carstva.",
+    "paragraph2": "Na ovoj stranici prikupljamo i predstavljamo sve dostupne informacije o ovoj porodici – od istorijskih dokumenata i naučnih radova do porodičnih svedočanstava i savremenih potomaka koji nose prezime Dejanović ili Dragaš. Cilj nam je da objednimo ove izvore kako bi se oblikovala živa mapa ove istorijske porodice i njenog nasleđa.",
+    "paragraph3": "Kroz digitalizaciju arhivske građe, genetičku genealogiju i povezivanje savremenih porodica, nastojimo da rekonstruišemo mrežu srodstva i istorijski identitet Dejanovića / Dragaša, čuvajući sećanje na ovu važnu porodicu za buduće generacije.",
+    "cta": "Pregledajte porodičnu kartu i materijale",
+    "gallery": [
+      {
+        "id": 1,
+        "title": "Mapa države Konstantina Dragaša",
+        "caption": "Države na centralnom Balkanu (1373–1395)",
+        "src": "/assets/img/dejanovic_country.png"
+      },
+      {
+        "id": 2,
+        "title": "Grb porodice Dejanović",
+        "caption": "Heraldika i simbolika porodice",
+        "src": "/assets/img/dejanovic_logo.png"
+      }
+    ],
+    "mapPlaceholder": "Ovde postavite mapu države Konstantina Dragaša",
+    "galleryHelper": "Koristite strelice za navigaciju kroz galeriju porodičnih materijala."
+  },
+  "faq": {
+    "title": "02 // Najčešća pitanja (FAQ)",
+    "items": [
+      {
+        "question": "Ko je bila vlastela Dejanovića / Dragaša?",
+        "answer": "Porodica Dejanović, poznata i kao Dragaš, bila je velikaška loza kasnosrednjovekovne Srbije. Njeni članovi su upravljali oblastima između današnje Srbije, Severne Makedonije i Bugarske u vreme pada srpske despotovine."
+      },
+      {
+        "question": "Gde se nalazila njihova država?",
+        "answer": "Država Konstantina Dragaša obuhvatala je oblast oko Strumice, Štipa, Kumanova, kao i krajeve ka današnjoj Bugarskoj i Grčkoj. Na priloženoj karti je označena narandžastom bojom."
+      },
+      {
+        "question": "Zašto radimo ovo istraživanje danas?",
+        "answer": "Cilj istraživanja je da se povežu postojeći istoriski izvori, naučni radovi i savremene porodice koje nose prezime Dejanović / Dragaš, kako bi se rekonstrusala mreža srodstva i istorijski identitet."
+      },
+      {
+        "question": "Kako se mogu uključiti u projekat?",
+        "answer": "Možete se prijaviti putem formulara za državljanstvo države Dejanović, poslati svoje porodične priče, kao i podržati istraživanja donacijama za arhivski rad i genetičku genealogiju."
+      }
+    ]
+  },
+  "articles": {
+    "title": "03 // Istorijske beleške i članci",
+    "cards": [
+      {
+        "title": "Dejanovići u srednjovekovnoj Srbiji",
+        "link": "https://en.wikipedia.org/wiki/Dejanovi%C4%87_noble_family"
+      },
+      {
+        "title": "Konstantin Dragaš – vladar na razmeđi carevina",
+        "link": "https://en.wikipedia.org/wiki/Constantine_Draga%C5%A1"
+      },
+      {
+        "title": "Moravska Srbija i nasleđe kneza Lazara",
+        "link": "https://en.wikipedia.org/wiki/Moravian_Serbia"
+      },
+      {
+        "title": "Srednjovekovne države na Balkanu",
+        "link": "https://en.wikipedia.org/wiki/Medieval_Serbia"
+      }
+    ]
+  },
+  "donations": {
+    "title": "05 // Donacije za dalja istraživanja",
+    "highlight": "Ovo su Patreon-stil donacije – fleksibilan način da dugoročno podržite rad na arhivama, digitalizaciji i istraživanjima porodice Dejanović.",
+    "tiers": [
+      {
+        "amount": "$15",
+        "title": "Jednokratna donacija za arhive",
+        "description": "Jednokratna podrška od 15 dolara koja pomaže nabavku kopija dokumenata i arhivske takse.",
+        "frequency": "jednokratno",
+        "featured": false
+      },
+      {
+        "amount": "$7",
+        "title": "Mesečna podrška – arhive + digitalizacija",
+        "description": "Mesečna Patreon-stil donacija koja istovremeno pokriva arhive i digitalizaciju i aktivno učestvuje u svim tekućim istraživanjima. Donatori dobijaju VIP pristup putem emaila sa ranijim pregledom mesečnih rezultata pre nego što budu objavljeni na sajtu.",
+        "frequency": "mesečno",
+        "featured": true
+      },
+      {
+        "amount": "$11",
+        "title": "Jednokratna donacija za digitalizaciju",
+        "description": "Jednokratna podrška od 11 dolara usmerena isključivo na obradu i digitalizaciju istorijske građe.",
+        "frequency": "jednokratno",
+        "featured": false
+      }
+    ]
+  },
+  "news": {
+    "title": "06 // Trenutna otkrića i vesti",
+    "items": [
+      {
+        "id": 1,
+        "tag": "U toku",
+        "location": "Arhive Novi Sad & Beograd",
+        "title": "Digitalizacija arhivske građe iz Novog Sada i Beograda",
+        "body": "U toku je digitalizacija postojećih dokumenata o Katici Dejanović – odlikovanoj i nagrađivanoj borkinji iz Drugog svetskog rata koja je tokom ratnih godina radila kao bolničarka.",
+        "phase": "Faza: obrada i opis dokumenata",
+        "ctaHelper": "Dodaj nove vesti uskoro →"
+      }
+    ]
+  },
+  "citizenship": {
+    "title": "07 // Prijava za državljanstvo države Dejanović",
+    "fields": {
+      "firstName": "Ime",
+      "lastName": "Prezime",
+      "email": "Email",
+      "occupation": "Zanimanje/profesija"
+    },
+    "supportLabel": "Želim da finansijski podržim istraživanja porodice Dejanović",
+    "storyPlaceholder": "Ukratko opišite porodično poreklo, grad i državu u kojoj živite, kao i sve poznate veze sa porodicom Dejanović / Dragaš.",
+    "submit": "Pošalji",
+    "sideText": "Ukoliko se prezivaš Dejanović / Dragaš, popuni kratku formu i zatraži simbolično \"državljanstvo\" države Dejanović – pridruži se mreži savremenih potomaka koji čuvaju sećanje na ovu porodicu.",
+    "footerCopyright": "Autorska prava © Dragaš Dejanović – 2024",
+    "footerLinks": ["LinkedIn", "GitHub"]
+  }
+}
+
+

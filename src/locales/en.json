@@ -1,0 +1,142 @@
+{
+  "brand": {
+    "label": "State of",
+    "name": "Dragaš Dejanović"
+  },
+  "navLinks": [
+    "Home",
+    "Family",
+    "FAQ",
+    "History",
+    "Wiki",
+    "Community"
+  ],
+  "hero": {
+    "sectionTitle": "01 // Dejanović / Dragaš family",
+    "paragraph1": "The Dejanović family, also known as Dragaš, was one of the most important noble lineages of late medieval Serbia. Its members ruled vast territories between present-day Serbia, North Macedonia and Bulgaria during a time when the Serbian Despotate was losing its independence under pressure from the Ottoman Empire.",
+    "paragraph2": "On this page we collect and present all available information about this family – from historical documents and academic work to family testimonies and contemporary descendants who bear the Dejanović or Dragaš surname. Our goal is to bring together these sources in order to build a living map of this historical family and its legacy.",
+    "paragraph3": "Through digitisation of archival material, genetic genealogy and connecting modern families, we seek to reconstruct the kinship network and historical identity of the Dejanović / Dragaš family, preserving the memory of this important lineage for future generations.",
+    "cta": "Browse the family map and materials",
+    "gallery": [
+      {
+        "id": 1,
+        "title": "Map of the realm of Constantine Dragaš",
+        "caption": "States in the central Balkans (1373–1395)",
+        "src": "/assets/img/dejanovic_country.png"
+      },
+      {
+        "id": 2,
+        "title": "Coat of arms of the Dejanović family",
+        "caption": "Heraldry and symbolism of the family",
+        "src": "/assets/img/dejanovic_logo.png"
+      }
+    ],
+    "mapPlaceholder": "Place the map of the realm of Constantine Dragaš here",
+    "galleryHelper": "Use the arrows to navigate through the gallery of family materials."
+  },
+  "faq": {
+    "title": "02 // Frequently asked questions (FAQ)",
+    "items": [
+      {
+        "question": "Who were the Dejanović / Dragaš nobles?",
+        "answer": "The Dejanović family, also known as Dragaš, was a noble family of late medieval Serbia. Its members ruled territories between present-day Serbia, North Macedonia and Bulgaria at the time of the fall of the Serbian Despotate."
+      },
+      {
+        "question": "Where was their domain located?",
+        "answer": "The realm of Constantine Dragaš covered the area around Strumica, Štip, Kumanovo and lands stretching toward today’s Bulgaria and Greece. On the map shown it is highlighted in orange."
+      },
+      {
+        "question": "Why are we researching this today?",
+        "answer": "The aim of this research is to connect existing historical sources, academic work and modern families bearing the Dejanović / Dragaš surname, in order to reconstruct kinship networks and historical identity."
+      },
+      {
+        "question": "How can I get involved?",
+        "answer": "You can apply through the citizenship form of the State of Dejanović, send your family stories, and support research through donations for archival work and genetic genealogy."
+      }
+    ]
+  },
+  "articles": {
+    "title": "03 // Historical notes and articles",
+    "cards": [
+      {
+        "title": "The Dejanović noble family in medieval Serbia",
+        "link": "https://en.wikipedia.org/wiki/Dejanovi%C4%87_noble_family",
+        "src": "/assets/img/dejanovic_country.png"
+      },
+      {
+        "title": "Constantine Dragaš – ruler at the crossroads of empires",
+        "link": "https://en.wikipedia.org/wiki/Constantine_Draga%C5%A1",
+        "src": "/assets/img/dejanovic_country.png"
+      },
+      {
+        "title": "Moravian Serbia and the legacy of Prince Lazar",
+        "link": "https://en.wikipedia.org/wiki/Moravian_Serbia",
+        "src": "/assets/img/dejanovic_country.png"
+      },
+      {
+        "title": "Medieval states in the Balkans",
+        "link": "https://en.wikipedia.org/wiki/Medieval_Serbia",
+        "src": "/assets/img/dejanovic_country.png"
+      }
+    ]
+  },
+  "donations": {
+    "title": "05 // Donations for further research",
+    "highlight": "These are Patreon-style donations – a flexible way to support archival work, digitisation and research on the Dejanović family over time.",
+    "tiers": [
+      {
+        "amount": "$15",
+        "title": "One-time archive donation",
+        "description": "A single 15‑dollar contribution that helps pay for archive fees and copies of documents.",
+        "frequency": "one-time",
+        "featured": false
+      },
+      {
+        "amount": "$7",
+        "title": "Monthly support – archives + digitisation",
+        "description": "A Patreon-style monthly donation that covers both archive work and digitisation, directly supporting all ongoing research. Donors receive VIP email access with early updates on that month’s findings before they appear on the website.",
+        "frequency": "monthly",
+        "featured": true
+      },
+      {
+        "amount": "$11",
+        "title": "One-time digitisation donation",
+        "description": "A single 11‑dollar contribution focused specifically on scanning, processing and preserving historical material.",
+        "frequency": "one-time",
+        "featured": false
+      }
+    ]
+  },
+  "news": {
+    "title": "06 // Current discoveries and news",
+    "items": [
+      {
+        "id": 1,
+        "tag": "In progress",
+        "location": "Archives in Novi Sad & Belgrade",
+        "title": "Digitisation of archival material from Novi Sad and Belgrade",
+        "body": "Work is underway to digitise existing documents about Katica Dejanović – a decorated and award-winning fighter from the Second World War who served as a nurse during the war years.",
+        "phase": "Stage: processing and describing documents",
+        "ctaHelper": "More news coming soon →"
+      }
+    ]
+  },
+  "citizenship": {
+    "title": "07 // Application for citizenship of the State of Dejanović",
+    "fields": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "occupation": "Occupation / profession"
+    },
+    "supportLabel": "I want to financially support research on the Dejanović family",
+    "storyPlaceholder": "Briefly describe your family origin, the city and country you live in, and any known links with the Dejanović / Dragaš family.",
+    "submit": "Send",
+    "sideText": "If your surname is Dejanović / Dragaš, fill in the short form and request symbolic citizenship of the State of Dejanović – join the network of present-day descendants who preserve the memory of this family.",
+    "footerCopyright": "Copyright © Dragaš Dejanović – 2024",
+    "footerLinks": [
+      "LinkedIn",
+      "GitHub"
+    ]
+  }
+}
