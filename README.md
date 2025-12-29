@@ -1,6 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Single-page React application built with React 19, Tailwind CSS, and Vite, 
+documenting the Dejanović/Dragaš family history. The site is bilingual (Serbian/
+English) using a JSON-based translation system and features an interactive image 
+gallery, horizontal carousel for historical articles, FAQ accordion, Patreon-style 
+donation tiers with external payment integration, and a citizenship application form 
+with email submission. Designed with a responsive layout, modern UI/UX patterns, 
+and a modular component architecture for maintainability.
 
 Currently, two official plugins are available:
 
