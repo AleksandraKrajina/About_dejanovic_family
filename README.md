@@ -8,6 +8,8 @@ donation tiers with external payment integration, and a citizenship application 
 with email submission. Designed with a responsive layout, modern UI/UX patterns, 
 and a modular component architecture for maintainability.
 
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
